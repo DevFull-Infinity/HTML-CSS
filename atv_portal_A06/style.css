@@ -1,0 +1,16 @@
+.retangulo{
+    display:flex;
+    flex-direction: row;
+}
+
+.ret_amarelo{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+}
+
+.ret_azul{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
